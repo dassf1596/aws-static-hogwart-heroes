@@ -1,2 +1,0 @@
-# Used by build.py to render HTML templates
-Jinja2
